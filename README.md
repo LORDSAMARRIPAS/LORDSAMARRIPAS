@@ -167,7 +167,6 @@ The full catalog, grouped. Live links where deployed; source links for everythin
 | **AquaTwin** | Virtual water-metering SaaS for data centers — power→water estimation, audit-logged billing, BRSR reports | Next.js 16 · FastAPI · Supabase | live (custom domain pending) · source opening soon |
 | **FindLeads** | Lead-gen tool + built-in CRM; flags website-less businesses, queue-less resumable jobs, 103 tests | Next.js 16 · Neon · Drizzle | [code](https://github.com/RikepilB/findleads) |
 | **ExamVault** | Exam generation & collusion-detection analytics (UBC capstone, 5-person team) | Django · DRF · React 19 | [code](https://github.com/RikepilB/ExamVault) |
-| **HUGO Web** | Marketing site + Cal.com booking for a solo lawyer | Next.js · Tailwind | [code](https://github.com/RikepilB/hugo-lawyer-portfolio) |
 
 ### 🤖 AI engineering & agent tooling
 
