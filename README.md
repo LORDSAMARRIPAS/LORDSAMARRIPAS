@@ -30,12 +30,7 @@
 </p>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="rikepilb's GitHub profile" src="dark_mode.svg" />
-</picture>
-
+<img width="1190" height="850" alt="Screenshot 2026-08-02 235117" src="https://github.com/user-attachments/assets/c0596b42-cf15-4899-a724-c7983e4f851e" />
 </details>
 
 ---
